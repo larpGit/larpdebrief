@@ -22,7 +22,7 @@ library(emayili)
 library(zip)
 library(shiny.i18n)
 
-smtp <- server(host = "alfa3205.alfahosting-server.de",
+smtp <- server(host = "your_mail_host",
                port = 465,
                username = Sys.getenv("ALFA_USERNAME"),
                password = Sys.getenv("ALFA_PASSWORD")
