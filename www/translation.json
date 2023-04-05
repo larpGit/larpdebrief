@@ -1,0 +1,266 @@
+{
+  "cultural_date_format": "%d-%m-%Y",
+  "languages": ["en", "de", "ja"],
+  "translation": [
+  	  {
+        "en": "Language",
+        "de": "Sprache",
+        "ja": "言語"
+      },
+      {
+        "en": "This app is a supplement to the",
+        "de": "Diese App ist eine Ergänzung zum",
+        "ja": "本アプリの関連ソフトは"
+      },
+      {
+        "en": "Created by ",
+        "de": "Erstellt von ",
+        "ja": "製作者： "
+      },
+      {
+        "en": "Björn-Ole Kamm",
+        "de": "Björn-Ole Kamm",
+        "ja": "カム ビョーン＝オーレ"
+      },
+      {
+        "en": "Code",
+        "de": "Code",
+        "ja": "コードは"
+      },
+      {
+        "en": "on GitHub",
+        "de": "auf GitHub",
+        "ja": "GitHubで"
+      },
+      {
+        "en": "Considering the theme or question provided by the facilitator, what words or ideas come to your mind when you want to describe your larp experience? Please input words or short sentences as they come to your mind. Please input at least four words or sentences.",
+        "de": "Welche Worte oder Ideen fallen dir angesichts des Themas oder der Frage der Moderation ein, wenn du dein Larp-Erlebnis beschreiben würdest? Bitte gib Wörter oder kurze Sätze ein, wie sie dir in den Sinn kommen. Bitte gib mindestens vier Wörter oder Sätze ein.",
+        "ja": "ファシリテーターが提示したテーマまたは質問をもとに、LARPで体験に関して想起した事柄（自由連想項目）を書き出しましょう。思いつくままに、言葉や短い文章を入力してください。最低でも4つの単語または文章を書いてください。"
+      },
+      {
+        "en": "Your Name or Number",
+        "de": "Deine Name oder Nummer",
+        "ja": "名前または番号"
+      },
+      {
+        "en": "Input either your first name or the participant number you received from the facilitator.",
+        "de": "Gebe entweder deinen Vornamen oder die Teilnehmernummer ein, die du von der Orga erhalten hast.",
+        "ja": "名前またはファシリテーターから受け取った参加者番号のいずれかを入力してください。"
+      },
+      {
+        "en": "Free Word Association",
+        "de": "Freie Wortassoziation",
+        "ja": "自由連想語（文）"
+      },
+      {
+        "en": "Fields marked with an asterisk * are required.",
+        "de": "Die mit einem Sternchen * gekennzeichneten Felder sind Pflichtfelder.",
+        "ja": "星印(*)のついた入力項目は必須です。"
+      },
+      {
+        "en": "First Word Association",
+        "de": "Erste Wortassoziation",
+        "ja": "第１自由連想語"
+      },
+      {
+        "en": "Second Word Association",
+        "de": "Zweite Wortassoziation",
+        "ja": "第２自由連想語"
+      },
+      {
+        "en": "Third Word Association",
+        "de": "Dritte Wortassoziation",
+        "ja": "第３自由連想語"
+      },
+      {
+        "en": "Fourth Word Association",
+        "de": "Vierte Wortassoziation",
+        "ja": "第４自由連想語"
+      },
+      {
+        "en": "Fifth Word Association",
+        "de": "Fünfte Wortassoziation",
+        "ja": "第５自由連想語"
+      },
+      {
+        "en": "Sixth Word Association",
+        "de": "Sechste Wortassoziation",
+        "ja": "第６自由連想語"
+      },
+      {
+        "en": "Seventh Word Association",
+        "de": "Siebte Wortassoziation",
+        "ja": "第７自由連想語"
+      },
+      {
+        "en": "Eighth Word Association",
+        "de": "Achte Wortassoziation",
+        "ja": "第８自由連想語"
+      },
+      {
+        "en": "Ninth Word Association",
+        "de": "Neunte Wortassoziation",
+        "ja": "第９自由連想語"
+      },
+      {
+        "en": "Tenth Word Association",
+        "de": "Zehnte Wortassoziation",
+        "ja": "第１０自由連想語"
+      },
+      {
+        "en": "Eleventh Word Association",
+        "de": "Elfte Wortassoziation",
+        "ja": "第１１自由連想語"
+      },
+      {
+        "en": "Twelfth Word Association",
+        "de": "Zwölfte Wortassoziation",
+        "ja": "第１２自由連想語"
+      },
+      {
+        "en": "Submit",
+        "de": "Abschicken",
+        "ja": "提出"
+      },
+      {
+        "en": "Download CSV",
+        "de": "CSV-Download",
+        "ja": "CSVダウンロード"
+      },
+      {
+        "en": "Please fill in the name and the first four inputs.",
+        "de": "Bitte geben Sie den Namen und die ersten vier Wortassoziationen ein.",
+        "ja": "名前と最初の4つの連想目を入力してください。"
+      },
+      {
+        "en": "Importance",
+        "de": "Wichtigkeit",
+        "ja": "重要度"
+      },
+      {
+        "en": "Submit Importance",
+        "de": "Wichtigkeit abschicken",
+        "ja": "重要度を提出"
+      },
+      {
+        "en": "Evaluation",
+        "de": "Einschätzung",
+        "ja": "イメージ"
+      },
+      {
+        "en": "Please evaluate your words and ideas and designate them as either positive (+), neutral/NA (~), or negative (-). Even if you do not change the current evaluation, please click it once.",
+        "de": "Bitte bewerte deine Worte und Ideen und kennzeichne sie entweder als positiv (+), neutral/NA (~) oder negativ (-). Auch wenn du die aktuelle Bewertung nicht änderst, klicke bitte einmal auf den entsprechenden Button.",
+        "ja": "連想目に対するイメージを肯定的（＋）、ニュートラルもしくはN/A（〜）、および否定的（ー）のいずれかで評価してください。現在のイメージを変更しない場合でも各ボタンを一度クリックしてください。"
+      },
+      {
+        "en": "Submit Evaluation",
+        "de": "Einschätzung abschicken",
+        "ja": "イメージを提出"
+      },
+      {
+        "en": "Similarity",
+        "de": "Ähnlichkeitsvergleich",
+        "ja": "類似度比較"
+      },
+      {
+        "en": "Please rate the distance between each pair of the items you listed according to the 7 scale below. In so doing, evaluate how close they are in your image. Do not evaluate in terms of the accuracy of meaning in the dictionary.",
+        "de": "Bitte bewerte den Abstand zwischen jedem Paar der von dir aufgelisteten Assoziationen anhand der nachstehenden 7er-Skala. Bewerte dabei, wie nahe sie sich in deiner Vorstellung sind. Bewerte nicht nach der Genauigkeit der Bedeutung im Wörterbuch.",
+        "ja": "記入した連想目やイメージの各ペアの類似性を（下記の尺度に従って）評定してください。どれくらい似ているか設定してください．辞書的な意味で類似性を評定しないでください。"
+      },
+      {
+        "en": "1 = extremely close 2 = very close 3 = relatively close 4 ＝ neither close nor far 5 = relatively far 6 = very far 7 ＝ extremely far",
+        "de": "1 = extrem nah 2 = sehr nah 3 = relativ nah 4 ＝ weder nah noch weit entfernt 5 = relativ weit 6 = sehr weit 7 ＝ extrem weit",
+        "ja": "1＝非常に近い　2＝かなり近い　3＝比較的近い　4＝近くも遠くない　5＝比較的遠い　6＝かなり遠い　7＝非常に遠い"
+      },
+      {
+        "en": "Submit Similarity",
+        "de": "Vergleich abschicken",
+        "ja": "類似度比較を提出"
+      },
+      {
+        "en": "Download Matrix",
+        "de": "Matrix-Download",
+        "ja": "非類似度行列ダウンロード"
+      },
+      {
+        "en": "Cluster Analysis",
+        "de": "Cluster-Anaylse",
+        "ja": "クラスター分析"
+      },
+      {
+        "en": "Number of Clusters",
+        "de": "Clusteranyahl",
+        "ja": "クラスター数"
+      },
+      {
+        "en": "Dendrogram",
+        "de": "Dendrogram",
+        "ja": "樹形図（デンドログラム）"
+      },
+      {
+        "en": "Dendrogram with Specified Clusters",
+        "de": "Dendrogram mit Angegebenen Clustern",
+        "ja": "指定されたクラスタ数の樹形図"
+      },
+      {
+        "en": "Download Dendrogram",
+        "de": "Dendrogram-Download",
+        "ja": "樹形図ダウンロード"
+      },
+      {
+        "en": "Download Clusters",
+        "de": "Cluster-Download",
+        "ja": "クラスター　ダウンロード"
+      },
+      {
+        "en": "Send to Facilitator",
+        "de": "An Moderation Senden",
+        "ja": "ファシリテーターに送信"
+      },
+      {
+        "en": "Please reorder your words in the order of importance by dragging and dropping.",
+        "de": "Bitte ordnen deine Eingaben in der Reihenfolge der Wichtigkeit durch Drag & Drop.",
+        "ja": "ドラッグ＆ドロップで連想目を重要度順に並び替えてください。"
+      },
+      {
+        "en": "Order of Importance",
+        "de": "Reihengolfe nach Bedeutung",
+        "ja": "重要度順"
+      },
+      {
+        "en": "and",
+        "de": "und",
+        "ja": "と"
+      },
+      {
+        "en": "The number of clusters, k, must be between 2 and the number of items in the dendrogram.",
+        "de": "Die Anzahl der Cluster, k, muss zwischen 2 und der Anzahl der Worte im Dendrogramm liegen.",
+        "ja": "クラスタ数（k）は、2とデンドログラム内のラベル数の間に設定しなければなりません。"
+      },
+      {
+        "en": "Enter the email address you want to send the files to:",
+        "de": "Gib die E-Mail-Adresse ein, an die du die Dateien senden möchtest:",
+        "ja": "ファイルの送信先のメールアドレスを入力してください。"
+      },
+      {
+        "en": "Debrief Data -",
+        "de": "Debrief-Daten -",
+        "ja": "ディブリーフ・データ -"
+      },
+      {
+        "en": "Please find the attached zip file with the debrief data.",
+        "de": "Die Zip-Datei mit den Debriefdaten ist im Anhang.",
+        "ja": "デブリーフ・データが添付されたzipファイルにあります。"
+      },
+      {
+        "en": "Email sent",
+        "de": "E-Mail verschickt",
+        "ja": "メール送信完了"
+      },
+      {
+        "en": "The email has been sent successfully.",
+        "de": "Die E-Mail wurde erfolgreich gesendet.",
+        "ja": "メールが正常に送信されました。"
+      }
+    ]
+}
