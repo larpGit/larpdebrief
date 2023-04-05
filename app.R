@@ -35,10 +35,8 @@ i18n <- Translator$new(translation_json_path = "www/translation.json")
 i18n$set_translation_language("en")
 
 ui <- fluidPage(
-  
-  
   shinyjs::useShinyjs(),
-  title = "Larp Debrief",
+  title = "Larp DEBRIEF",
   tags$head(
     tags$link(rel = "stylesheet", type = "text/css", href = "style.css")
   ),
@@ -56,16 +54,19 @@ ui <- fluidPage(
             selected = i18n$get_key_translation()
           )
       ),
-      h1("Larp Debrief"),
+      div(style = "display: flex; align-items: center;",
+          tags$img(src = "https://www.larpwright.online/assets/lardebrief_logo.png", width = "128px", height = "128px", style = "margin-right: 10px;"),
+          h1("Larp DEBRIEF")
+      ),
       h5(i18n$t("This app is a supplement to the"),
-        a(href = "https://www.larpwright.online",
-          "Larpwright Design Tool", target="_blank")
+         a(href = "https://www.larpwright.online",
+           "Larpwright Design Tool", target="_blank")
       ),
       span(i18n$t("Created by ")),
-        a(href = "https://www.b-ok.de", i18n$t("Björn-Ole Kamm"), target="_blank"),
+      a(href = "https://www.b-ok.de", i18n$t("Björn-Ole Kamm"), target="_blank"),
       HTML("&bull;"),
       span(i18n$t("Code")),
-        a(href = "https://github.com/larpGit/larpdebrief", i18n$t("on GitHub"), target="_blank")
+      a(href = "https://github.com/larpGit/larpdebrief", i18n$t("on GitHub"), target="_blank")
   ),
   div(style = "height: 20px;"), # Add this line to create some space
   h5(i18n$t("Considering the theme or question provided by the facilitator, what words or ideas come to your mind when you want to describe your larp experience? Please input words or short sentences as they come to your mind. Please input at least four words or sentences.")), 
