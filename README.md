@@ -28,6 +28,7 @@ For the purpose of the subsequent analysis, we also asked participants to evalua
 
 **Step 5: Degree of Similarity**<br/>
 In preparation for the subsequent discussion and analysis, the participants are asked to rate the items in pairs based on the degree of how close they are in connotative meanings on a 7-point scale (from 1, very close in meaning, to 7, very different in meaning). The participants would receive instructions, such as:
+> Please rate the distance between each pair of the items you listed according to the 7 scale below. In so doing, evaluate how close they are in your image. Do not evaluate in terms of the accuracy of meaning in the dictionary.
 
 **Step 6: Cluster Analysis**<br/>
 Based on the matrix given in the previous step, we perform a hierarchical cluster analysis with Ward’s method on the similarity matrix to obtain a so-called dendrogram, a tree diagram to illustrate the arrangement of clusters. Cluster here refers to a number of items that are close in meaning and thus may build a set of relations. This relates to the meaningful structuring of information necessary for learning.
