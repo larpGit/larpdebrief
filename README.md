@@ -4,9 +4,9 @@
   <img align="right" alt="Larpwright Logo." src="https://www.larpwright.online/assets/ldf_logo_bl.png">
 </picture>
 
-# Larp DEBRIEF
+# reLarp
 
-This tool can be used for the reflection phase after a [larp](https://nordiclarp.org/wiki/Larp) (live-action role-play) as a visualization and evaluation procedure. This mixed-method evaluation strategy was inspired by *Personal Attitude Construct (PAC) Analysis* originally developed by [NAITŌ Testuo](https://pacanalysis.jimdofree.com/) (in Japanese). "Used in various fields in Japan today, ranging from psychology, sociology, language education, to counselling, PAC analysis combines in-depth interviews with statistical clustering and visualisations to communicate individual experiences. Visualisation here refers to tree diagrams representing the connections between keywords the interviewees chose to describe their experiences. The visuality of the approach translates into its main advantage for learning purposes because it delivers a basis for the participant’s reflection and makes their reflection also communicable to others" (Kamm [2019](https://doi.org/10.1007/978-981-13-8039-6_36)). <br/>
+This tool can be used for the reflection phase after a [larp](https://nordiclarp.org/wiki/Larp) (live-action role-play) as a visualization and evaluation procedure (re-view, re-flection > reLarp). This mixed-method evaluation strategy was inspired by *Personal Attitude Construct (PAC) Analysis* originally developed by [NAITŌ Testuo](https://pacanalysis.jimdofree.com/) (in Japanese). "Used in various fields in Japan today, ranging from psychology, sociology, language education, to counselling, PAC analysis combines in-depth interviews with statistical clustering and visualisations to communicate individual experiences. Visualisation here refers to tree diagrams representing the connections between keywords the interviewees chose to describe their experiences. The visuality of the approach translates into its main advantage for learning purposes because it delivers a basis for the participant’s reflection and makes their reflection also communicable to others" (Kamm [2019](https://doi.org/10.1007/978-981-13-8039-6_36)). <br/>
 As a highly structured debriefing strategy, we use a PAC analysis variant adjusted for larp experiences to assist with evaluating a larp's design and, more importantly, as a method to assist participants in the process of making sense of their experience and visualize their learning. <br/>
 This shiny app now streamlines the process: Participants can individually input their impressions and are guided through the whole process. In the end, they can send all generated output (dendrograms, matrices) to the facilitator. <br/>
 A usable test version is available at https://b-ok.shinyapps.io/larpdebrief.<br/>
@@ -56,9 +56,9 @@ Currently, the app is available in English, German, and Japanese (and includes a
 ## Copyright
 Copyright &copy; 2023, [Björn-Ole Kamm](https://www.b-ok.de)
 
-Larp Debrief is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+reLarp is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
-Larp Debrief is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+reLarp is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License along with Larp Debrief. If not, see https://www.gnu.org/licenses/.
 
