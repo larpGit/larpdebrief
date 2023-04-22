@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.larpwright.online/assets/ldf_logo_wh.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://www.larpwright.online/assets/ldf_logo_bl.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.larpwright.online/assets/rl_logo_wh.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://www.larpwright.online/assets/rl_logo_bl.png">
   <img align="right" alt="Larpwright Logo." src="https://www.larpwright.online/assets/ldf_logo_bl.png">
 </picture>
 
