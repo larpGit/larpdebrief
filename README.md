@@ -51,7 +51,7 @@ In [app.R](app.R) replace the hostname for the mail server with your information
 Share the app link with your participants.
 
 ## Translations
-Currently, the app is available in English, German, and Japanese (and includes a language switcher via [shiny.i18n](https://github.com/Appsilon/shiny.i18n). Feel free to add further translations via the translation.json in the www-folder.<br/><br/>
+Currently, the app is available in English, German, and Japanese (and includes a language switcher via [shiny.i18n](https://github.com/Appsilon/shiny.i18n)). Feel free to add further translations via the translation.json in the www-folder.<br/><br/>
 
 ## Copyright
 Copyright &copy; 2023, [Björn-Ole Kamm](https://www.b-ok.de)
