@@ -60,7 +60,7 @@ reLarp is free software: you can redistribute it and/or modify it under the term
 
 reLarp is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
-You should have received a copy of the GNU General Public License along with Larp Debrief. If not, see https://www.gnu.org/licenses/.
+You should have received a copy of the GNU General Public License along with reLarp. If not, see https://www.gnu.org/licenses/.
 
 ## Acknowledgments
 The app development is part of the research project [Transcultural Learning through Simulated Co-Presence: How to Realize Other Cultures and Life-Worlds](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19KT0028/), funded by the [Japan Society for the Promotion of Science](https://www.jsps.go.jp/english/) (JSPS).
