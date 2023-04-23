@@ -1,11 +1,11 @@
 # Copyright 2023, Björn-Ole Kamm, www.b-ok.de
-# This file is part of Larp Debrief.
+# This file is part of reLarp.
 #
-# Larp Debrief is free software: you can redistribute it and/or modify it under the terms of 
+# reLarp is free software: you can redistribute it and/or modify it under the terms of 
 # the GNU General Public License as published by the Free Software Foundation, either version 
 # 3 of the License, or (at your option) any later version.
 #
-# Larp Debrief is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; 
+# reLarp is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; 
 # without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. 
 # See the GNU General Public License for more details.
 #
@@ -36,7 +36,7 @@ i18n$set_translation_language("en")
 
 ui <- fluidPage(
   shinyjs::useShinyjs(),
-  title = "Larp DEBRIEF",
+  title = "reLarp",
   tags$head(
     tags$link(rel = "stylesheet", type = "text/css", href = "style.css")
   ),
@@ -55,18 +55,18 @@ ui <- fluidPage(
           )
       ),
       div(style = "display: flex; align-items: center;",
-          tags$img(src = "https://www.larpwright.online/assets/lardebrief_logo.png", width = "128px", height = "128px", style = "margin-right: 10px;"),
-          h1("Larp DEBRIEF")
+          tags$img(src = "https://www.larpwright.online/assets/relarp_logo.png", width = "128px", height = "128px", style = "margin-right: 10px;"),
+          h1(HTML("<span style='font-variant: small-caps;'>re</span>Larp"))
       ),
       h5(i18n$t("This app is a supplement to the"),
          a(href = "https://www.larpwright.online",
-           "Larpwright Design Tool", target="_blank")
+           "Larpwright Design Tools", target="_blank")
       ),
       span(i18n$t("Created by ")),
       a(href = "https://www.b-ok.de", i18n$t("Björn-Ole Kamm"), target="_blank"),
       HTML("&bull;"),
       span(i18n$t("Code")),
-      a(href = "https://github.com/larpGit/larpdebrief", i18n$t("on GitHub"), target="_blank"),
+      a(href = "https://github.com/larpGit/relarp", i18n$t("on GitHub"), target="_blank"),
       HTML("&bull;"),
       span(i18n$t("Disclaimer:")),
       a(href = "https://www.larpwright.online/debrief/#data_privacy", i18n$t("Data and Privacy"), target="_blank")
