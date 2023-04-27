@@ -5,7 +5,7 @@
 </picture>
 
 # reLarp
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.md)
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/larpgit/relarp/blob/main/README.md)
 
 This tool can be used for the reflection phase after a [larp](https://nordiclarp.org/wiki/Larp) (live-action role-play) as a visualization and evaluation procedure (re-view, re-flection > reLarp). This mixed-method evaluation strategy was inspired by *Personal Attitude Construct (PAC) Analysis* originally developed by [NAITŌ Testuo](https://pacanalysis.jimdofree.com/) (in Japanese). "Used in various fields in Japan today, ranging from psychology, sociology, language education, to counselling, PAC analysis combines in-depth interviews with statistical clustering and visualisations to communicate individual experiences. Visualisation here refers to tree diagrams representing the connections between keywords the interviewees chose to describe their experiences. The visuality of the approach translates into its main advantage for learning purposes because it delivers a basis for the participant’s reflection and makes their reflection also communicable to others" (Kamm [2019](https://doi.org/10.1007/978-981-13-8039-6_36)). <br/>
 As a highly structured debriefing strategy, we use a PAC analysis variant adjusted for larp experiences to assist with evaluating a larp's design and, more importantly, as a method to assist participants in the process of making sense of their experience and visualize their learning. <br/>
