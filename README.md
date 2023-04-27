@@ -24,7 +24,7 @@ Following these instructions, the participants input their word associations rel
 The first words or images that occur to participants may not always be the most “important” in that the words or images are necessary to explain the recalled experience. Thus, in this step, the participants are requested to rearrange their inputs in order of importance.
 
 **Step 4: Image/Evaluation**<br/>
-For the purpose of the subsequent analysis, we also asked participants to evaluate the meaning of each item as positive (+), negative (-), or neutral (~).
+For the purpose of the subsequent analysis, we also ask participants to evaluate the meaning of each item as positive (+), negative (-), or neutral (~).
 
 **Step 5: Degree of Similarity**<br/>
 In preparation for the subsequent discussion and analysis, the participants are asked to rate the items in pairs based on the degree of how close they are in connotative meanings on a 7-point scale (from 1, very close in meaning, to 7, very different in meaning). The participants would receive instructions, such as:
