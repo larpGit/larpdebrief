@@ -63,7 +63,7 @@ reLarpはフリーソフトウェアです．Free Software Foundationによっ�
 
 reLarpは有用であることを期待して配布されますが，いかなる保証もありません（商品性または特定目的への適合性の暗黙の保証もありません）．詳しくはGNU一般公衆利用許諾書をご覧ください．
 
-reLarpと一緒にGNU一般公衆利用許諾書のコピーを受け取っているはずです．そうでない場合は，https://www.gnu.org/licenses/を参照してください．
+reLarpと一緒にGNU一般公衆利用許諾書のコピーを受け取っているはずです．そうでない場合は，https://www.gnu.org/licenses/ を参照してください．
 
 ## 謝辞
 本アプリ開発は，（[日本学術振興会](https://www.jsps.go.jp/english/)の助成付き）科研費プロジェクト｢[疑似共在性を用いての文化越境的学習：自分と違う文化と生活世界の実際体験方法](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19KT0028/)｣の一環です．
