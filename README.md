@@ -12,7 +12,7 @@ This shiny app now streamlines the process: Participants can individually input 
 A usable test version is available at https://b-ok.shinyapps.io/reLarp/.<br/>
 If you use the test version on shinyapps.io, please read the respective [data and privacy disclaimer](https://www.larpwright.online/relarp/#data_privacy).
 
-[Erklärungen auf Deutsch](https://www.larpwright.online/de/relarp/) | [日本語での説明](https://www.larpwright.online/ja/relarp/)
+**[Erklärungen auf Deutsch](https://www.larpwright.online/de/relarp/) | [日本語での説明](https://www.larpwright.online/ja/relarp/)**
 
 ## Procedure Overview
 **Step 1: Stimulating Instructions**<br/>
