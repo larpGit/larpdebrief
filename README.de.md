@@ -5,9 +5,9 @@
 </picture>
 
 # reLarp
-[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/larpgit/relarp/blob/main/README.md)
-[![de](https://img.shields.io/badge/lang-de-green.svg)](https://github.com/larpgit/relarp/blob/main/README.de.md)
-[![ja](https://img.shields.io/badge/lang-ja-red.svg)](https://github.com/larpgit/relarp/blob/main/README.ja.md)
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](README.md)
+[![de](https://img.shields.io/badge/lang-de-green.svg)](README.de.md)
+[![ja](https://img.shields.io/badge/lang-ja-red.svg)](README.ja.md)
 
 Dieses Werkzeug kann in der Reflexionsphase nach einem [Larp](https://nordiclarp.org/wiki/Larp) (Live-Rollenspiel) als Visualisierungs- und Auswertungsverfahren eingesetzt werden (Review, Reflektion > reLarp). Diese Mixed-Method-Auswertungsstrategie wurde von der ursprünglich von [NAITŌ Testuo](https://pacanalysis.jimdofree.com/) (auf Japanisch) entwickelten *Personal Attitude Construct (PAC)-Analyse* inspiriert. „Die PAC-Analyse wird heute in Japan in verschiedenen Bereichen eingesetzt, von der Psychologie über die Soziologie und dem Sprachunterricht bis hin zur Beratung, und kombiniert Tiefeninterviews mit statistischen Clustern und Visualisierungen, um individuelle Erfahrungen zu vermitteln. Die Visualisierung bezieht sich hier auf Baumdiagramme, die die Verbindungen zwischen Schlüsselwörtern darstellen, die die Befragten zur Beschreibung ihrer Erfahrungen gewählt haben. In der Visualität des Ansatzes liegt sein Hauptvorteil für Lernzwecke, denn sie liefert eine Grundlage für die Reflexion der Teilnehmenden und macht ihre Reflexion auch für andere kommunizierbar“ (Kamm [2019](https://doi.org/10.1007/978-981-13-8039-6_36); aus dem Englischen). <br/>
 Als hochstrukturierte Debriefing-Strategie verwenden wir eine an Larp-Erfahrungen angepasste PAC-Analyse-Variante, um die Evaluation des Larp-Designs zu unterstützen und, was noch wichtiger ist, als Methode, um die Teilnehmenden im Prozess der Sinngebung ihrer Erfahrung zu unterstützen und ihr Lernen zu visualisieren. <br/>
