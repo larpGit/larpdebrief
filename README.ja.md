@@ -8,6 +8,7 @@
 [![en](https://img.shields.io/badge/lang-en-blue.svg)](README.md)
 [![de](https://img.shields.io/badge/lang-de-green.svg)](README.de.md)
 [![ja](https://img.shields.io/badge/lang-ja-red.svg)](README.ja.md)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/larpgit/relarp?color=lightgrey&label=version&logo=github)](https://github.com/larpGit/relarp/releases/latest)
 
 このツールは，[LARP](https://nordiclarp.org/wiki/Larp)（ライブ・アクション・ロールプレイ）後の振り返り段階において，可視化と評価の手順として使用することができます（re-view, re-flection > reLarp）．本ツールは，[内藤哲雄氏](https://pacanalysis.jimdofree.com/)が開発したPAC（Personal Attitude Construct）分析にインスピレーションを得て開発された混合法による評価手法です．｢PAC分析は，心理学，社会学，語学教育，カウンセリングなど，今日日本のさまざまな分野で用いられており，綿密なインタビューと統計的なクラスタリングや視覚化を組み合わせて，個人の経験を明らかにしています．ここでいう視覚化とは，インタビュー対象者が自分の体験を表現するために選んだキーワードのつながりを表す樹形図のことです．このアプローチの視覚性は，参加者の内省の基礎を提供し，その内省を他の人にも伝えることができるため，学習目的での主な利点につながる｣ (Kamm [2019](https://doi.org/10.1007/978-981-13-8039-6_36)；原稿は英語）．<br/>
 高度に構造化されたディブリーフ戦略として，LARP体験用に調整したPAC分析変法を用いて，LARPのデザイン評価を支援し，さらに重要なのは，参加者が自分の体験を意味づけ，学びを可視化するプロセスを支援する方法としています．<br/>
