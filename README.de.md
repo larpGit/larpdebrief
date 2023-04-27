@@ -13,7 +13,7 @@ Dieses Werkzeug kann in der Reflexionsphase nach einem [Larp](https://nordiclarp
 Als hochstrukturierte Debriefing-Strategie verwenden wir eine an Larp-Erfahrungen angepasste PAC-Analyse-Variante, um die Evaluation des Larp-Designs zu unterstützen und, was noch wichtiger ist, als Methode, um die Teilnehmenden im Prozess der Sinngebung ihrer Erfahrung zu unterstützen und ihr Lernen zu visualisieren. <br/>
 Diese Shiny-App vereinfacht den Prozess: Die Teilnehmenden können ihre Eindrücke individuell eingeben und werden durch den gesamten Prozess geführt. Am Ende können sie alle generierten Ergebnisse (Dendrogramme, Matrizen) an die Moderation senden. <br/>
 Eine brauchbare Testversion ist verfügbar unter https://b-ok.shinyapps.io/reLarp/.<br/>
-Vor der Nutzung der Demoversion auf shinyapps.io bitten wir darum, die entsprechdenden [Datenschutzhinweise](https://www.larpwright.online/relarp/#data_privacy) zu lesen.
+Vor der Nutzung der Demoversion auf shinyapps.io bitten wir darum, die entsprechdenden [Datenschutzhinweise](https://www.larpwright.online/de/relarp/#data_privacy) zu lesen.
 
 ## Ablauf des Verfahrens
 **1.) Anweisung**<br/>
