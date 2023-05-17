@@ -69,7 +69,7 @@ ui <- fluidPage(
       a(href = "https://github.com/larpGit/relarp", i18n$t("on GitHub"), target="_blank"),
       HTML("&bull;"),
       span(i18n$t("Disclaimer:")),
-      a(href = "https://www.larpwright.online/debrief/#data_privacy", i18n$t("Data and Privacy"), target="_blank")
+      a(href = "https://www.larpwright.online/relarp/#data_privacy", i18n$t("Data and Privacy"), target="_blank")
   ),
   div(style = "height: 20px;"), # Add this line to create some space
   h5(i18n$t("Considering the theme or question provided by the facilitator, what words or ideas come to your mind when you want to describe your larp experience? Please input words or short sentences as they come to your mind. Please input at least four words or sentences.")), 
