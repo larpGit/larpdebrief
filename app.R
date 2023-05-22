@@ -294,8 +294,8 @@ server <- function(input, output, session) {
     for (i in seq(ncol(pairs))) {
       pair <- pairs[, i]
       sim_val <- input[[paste0("similarity", i)]]
-      similarity_matrix[pair[1], pair[2]] <- sim_val
-      similarity_matrix[pair[2], pair[1]] <- sim_val
+      similarity_matrix[pair[1], pair[2]] <- 8 - sim_val
+      similarity_matrix[pair[2], pair[1]] <- 8 - sim_val
     }
     write.table(similarity_matrix, paste0("responses/", input$name, "-similarity.csv"), row.names = TRUE, col.names = TRUE, sep = ",", quote = TRUE, fileEncoding = "UTF-8")
   })
