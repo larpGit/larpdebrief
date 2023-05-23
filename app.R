@@ -22,7 +22,7 @@ library(emayili)
 library(zip)
 library(shiny.i18n)
 
-smtp <- server(host = "your_mail_host",
+smtp <- server(host = "alfa3205.alfahosting-server.de",
                port = 465,
                username = Sys.getenv("ALFA_USERNAME"),
                password = Sys.getenv("ALFA_PASSWORD")
@@ -207,7 +207,7 @@ server <- function(input, output, session) {
   
   output$evaluationUI <- renderUI({
     req(input_data$importance)
-
+    
     eval_controls <- lapply(input_data$importance, function(item) {
       fluidRow(
         column(4, strong(item)),
@@ -310,15 +310,42 @@ server <- function(input, output, session) {
   )
   
   # Read the similarity matrix
-  similarity_matrix <- eventReactive(input$submit2, {
-    req(input$name)
-    read.csv(paste0("responses/", input$name, "-similarity.csv"), row.names = 1)
+	similarity_matrix <- eventReactive(input$submit2, {
+  	 req(input$name)
+  	 read.csv(paste0("responses/", input$name, "-similarity.csv"), row.names = 1)
   })
-  
+
+  # Modify labels of the similarity matrix
+  similarity_matrix_modified <- reactive({
+    # Obtain the original matrix
+    sm <- similarity_matrix()
+
+    # Get the original labels
+    labels <- rownames(sm)
+
+    # Define the maximum length for a label without line breaks
+    max_length <- 14
+
+    # Modify labels to insert line breaks if they are too long
+    labels <- sapply(labels, function(label) {
+      if (nchar(label) > max_length) {
+        wrapped_label <- strwrap(label, width = max_length)
+        label <- paste(wrapped_label, collapse = "\n")
+      }
+      return(label)
+    })
+
+    # Assign the modified labels back to the similarity matrix
+    rownames(sm) <- labels
+    colnames(sm) <- labels
+
+    return(sm)
+  })
+
   # Calculate basic statistics
   output$basicStats <- renderTable({
-    req(similarity_matrix())
-    basic_stats <- psych::describe(similarity_matrix())
+    req(similarity_matrix_modified())
+    basic_stats <- psych::describe(similarity_matrix_modified())
     basic_stats <- cbind(rownames(basic_stats), basic_stats)
     colnames(basic_stats)[1] <- "Inputs"
     basic_stats
@@ -326,9 +353,9 @@ server <- function(input, output, session) {
   
   # Calculate correlation
   output$correlation <- renderTable({
-    req(similarity_matrix())
+    req(similarity_matrix_modified())
     if (length(input_data$inputs) > 1) {
-      correlation <- cor(similarity_matrix(), method = "pearson")
+      correlation <- cor(similarity_matrix_modified(), method = "pearson")
       correlation <- cbind(rownames(correlation), correlation)
       colnames(correlation)[1] <- "Inputs"
       correlation
@@ -340,8 +367,8 @@ server <- function(input, output, session) {
   
   # Cluster analysis
   cluster_analysis <- reactive({
-    req(similarity_matrix())
-    distance <- dist(similarity_matrix(), method = "euclidean")
+    req(similarity_matrix_modified())
+    distance <- dist(similarity_matrix_modified(), method = "euclidean")
     hclust(distance, method = "ward.D")
   })
   
